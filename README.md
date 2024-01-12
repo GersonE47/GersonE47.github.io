@@ -37,3 +37,6 @@ Throughout the course of my educational and work career I have familiarized myse
 
 
 ## Projects
+### Professional Writing Portfolio:
+[Writing Portfolio 2023 (1).pdf](https://github.com/GersonE47/GersonE47.github.io/files/13914428/Writing.Portfolio.2023.1.pdf)
+

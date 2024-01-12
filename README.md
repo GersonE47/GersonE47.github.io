@@ -39,6 +39,6 @@ Throughout the course of my educational and work career I have familiarized myse
 ## Projects
 ### Professional Writing Portfolio:
 [Writing Portfolio 2023 (1).pdf](https://github.com/GersonE47/GersonE47.github.io/files/13914428/Writing.Portfolio.2023.1.pdf)
-<a href='https://codespaces.new/code50/98873026?quickstart=1'><img src='https://github.com/codespaces/badge.svg' alt='Open in GitHub Codespaces' style='max-width: 100%;'></a>
+<a href='https://github.com/code50/98873026.git'><img src='https://github.com/codespaces/badge.svg' alt='Open in GitHub Codespaces' style='max-width: 100%;'></a>
 
 

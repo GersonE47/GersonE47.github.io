@@ -1,4 +1,4 @@
-# Writing Portfolio 
+# Gerson Escalante  
 
 Hello There!, 
 
@@ -29,7 +29,7 @@ Throughout the course of my educational and work career I have familiarized myse
 -	Mentored new associates, cultivating expertise in product knowledge, effective selling techniques, and company procedures.
 -	Developed training programs to enhance team skills in areas such as product familiarity, sales techniques, and customer communication.
 
-**IDS Custom Audio Assistant 					    January 2022 – Present Day**
+**IDS Custom Audio Assistant 					    January 2017 – May 2018**
 **IDS Custom Audio                        Norwalk, CA**
 
 -	Issued purchase orders and coded invoices for payment to verify contractor billings.
@@ -39,4 +39,6 @@ Throughout the course of my educational and work career I have familiarized myse
 ## Projects
 ### Professional Writing Portfolio:
 [Writing Portfolio 2023 (1).pdf](https://github.com/GersonE47/GersonE47.github.io/files/13914428/Writing.Portfolio.2023.1.pdf)
+<a href='https://codespaces.new/code50/98873026?quickstart=1'><img src='https://github.com/codespaces/badge.svg' alt='Open in GitHub Codespaces' style='max-width: 100%;'></a>
+
 

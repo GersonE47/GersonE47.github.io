@@ -1,4 +1,4 @@
-# Gerson Escalante  
+# About me   
 
 Hello There!, 
 
@@ -19,9 +19,12 @@ Throughout the course of my educational and work career I have familiarized myse
 - A.A, English Rhetoric & Composition	| Cerritos College (_May 2021_)
   
 ## Work Experience
-**Assistant Department Manager					    January 2022 – Present Day** 
+**Assistant Department Manager					    January 2022 – Present Day**
+
 **Pro Specialist							              August 2020 – January 2022**
-**Sales Associate							              May 2018 – August 2020** 
+
+**Sales Associate							              May 2018 – August 2020**
+
 **Floor & Décor							                Downey, CA**
 
 -	Conducted in-depth data analysis & reporting of sales comps/trends data, providing valuable insights for strategic decision-making, and reporting to department manager.
@@ -30,6 +33,7 @@ Throughout the course of my educational and work career I have familiarized myse
 -	Developed training programs to enhance team skills in areas such as product familiarity, sales techniques, and customer communication.
 
 **IDS Custom Audio Assistant 					    January 2017 – May 2018**
+
 **IDS Custom Audio                        Norwalk, CA**
 
 -	Issued purchase orders and coded invoices for payment to verify contractor billings.
@@ -38,8 +42,6 @@ Throughout the course of my educational and work career I have familiarized myse
 
 ## Projects
 ### Professional Writing Portfolio:
-[Writing Portfolio 2023 (1).pdf](https://github.com/GersonE47/GersonE47.github.io/files/13914428/Writing.Portfolio.2023.1.pdf)
+[Professional Writing Portfolio.pdf](https://github.com/GersonE47/GersonE47.github.io/files/13925654/Professional.Writing.Portfolio.pdf)
 ### CS50 Files:
 <a href='https://github.com/code50/98873026.git'><img src='https://github.com/codespaces/badge.svg' alt='Open in GitHub Codespaces' style='max-width: 100%;'></a>
-
-

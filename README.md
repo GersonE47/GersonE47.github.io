@@ -19,22 +19,22 @@ Throughout the course of my educational and work career I have familiarized myse
 - A.A, English Rhetoric & Composition	| Cerritos College (_May 2021_)
   
 ## Work Experience
-**Assistant Department Manager					    January 2022 – Present Day**
+**Assistant Department Manager,					    January 2022 – Present Day**
 
-**Pro Specialist							              August 2020 – January 2022**
+**Pro Specialist,							              August 2020 – January 2022**
 
-**Sales Associate							              May 2018 – August 2020**
+**Sales Associate,							              May 2018 – August 2020**
 
-**Floor & Décor							                Downey, CA**
+**Floor & Décor,							                Downey, CA**
 
 -	Conducted in-depth data analysis & reporting of sales comps/trends data, providing valuable insights for strategic decision-making, and reporting to department manager.
 -	Utilized analytical skills to interpret complex data sets, identifying patterns and trends to enhance sales strategies.
 -	Mentored new associates, cultivating expertise in product knowledge, effective selling techniques, and company procedures.
 -	Developed training programs to enhance team skills in areas such as product familiarity, sales techniques, and customer communication.
 
-**IDS Custom Audio Assistant 					    January 2017 – May 2018**
+**IDS Custom Audio Assistant, 					    January 2017 – May 2018**
 
-**IDS Custom Audio                        Norwalk, CA**
+**IDS Custom Audio,                        Norwalk, CA**
 
 -	Issued purchase orders and coded invoices for payment to verify contractor billings.
 -	Worked alongside IDS Custom Audio's to establish timelines for constructions projects and provided quality and cost control on various projects.

@@ -45,4 +45,5 @@ Throughout the course of my educational and work career I have familiarized myse
 [Professional Writing Portfolio.pdf](https://github.com/GersonE47/GersonE47.github.io/files/13925654/Professional.Writing.Portfolio.pdf)
 ### CS50 Files:
 <a href='https://github.com/code50/98873026.git'><img src='https://github.com/codespaces/badge.svg' alt='Open in GitHub Codespaces' style='max-width: 100%;'></a>
+
 [98873026-main.zip](https://github.com/GersonE47/GersonE47.github.io/files/13945044/98873026-main.zip)

@@ -14,7 +14,7 @@ Collaborative, detail-oriented college graduate looking to utilize educational e
 ## Education/Certificates
 - CS50, Introduction into Computer Science Certificate | Harvard University (_March 2024_)
 - B.A, English Rhetoric & Composition | Cal-State Long Beach (_May 2023_)
-- C.T, Profressinal Writing | Cal-State Long Beach (_May 2023_)									       		
+- Certificate, Profressinal Writing | Cal-State Long Beach (_May 2023_)									       		
 - A.A, English Rhetoric & Composition	| Cerritos College (_May 2021_)
   
 ## Work Experience

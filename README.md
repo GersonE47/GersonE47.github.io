@@ -55,7 +55,7 @@ Collaborative, detail-oriented college graduate looking to utilize educational e
 
 ## Projects
 ### Professional Writing Portfolio:
-[Professional Writing Portfolio.pdf]([Writing Portfolio 2024 .pdf](https://github.com/GersonE47/GersonE47.github.io/files/14622239/Writing.Portfolio.2024.pdf)
+([Writing Portfolio 2024 .pdf](https://github.com/GersonE47/GersonE47.github.io/files/14622239/Writing.Portfolio.2024.pdf)
 
 ### CS50 Files:
 [98873026-main.zip](https://github.com/GersonE47/GersonE47.github.io/files/13945044/98873026-main.zip)

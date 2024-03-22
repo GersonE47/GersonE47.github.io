@@ -32,7 +32,7 @@ Collaborative, detail-oriented college graduate looking to utilize educational e
 - Collaborated directly with subject matter experts to research, edit, and publish end-user documentation.
   
   
-**Assistant Department Manager,					    January 2022 – Present Day**
+**Assistant Department Manager,					    May 2018 – Present Day**
 
 **Floor & Décor,							              Downey, CA**
 

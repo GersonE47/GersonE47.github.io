@@ -44,8 +44,6 @@ Collaborative, detail-oriented college graduate looking to utilize educational e
 
 **Ms Prissy Cosmetics,                      Los Angeles, CA**
 
--	Researching the cosmetics ad space to gather understanding of the role of ad copy.
-- Creating the tone and beat sheet for each product caption and what the ad copy should contain.
 - Practiced using prose, the rule of threes and dissonance and consonance to create engaging and memorable opening for product descriptions.
 - Practiced creating calls-to-action to focus the mind of the customer and put them in the mindset to buy products (makeup).
 - Position required editing for clarity and removing words, phrases and descriptions that weren’t succinct or caused the ad copy to be overly long.

@@ -34,10 +34,6 @@ Collaborative, detail-oriented college graduate looking to utilize educational e
   
 **Assistant Department Manager,					    January 2022 – Present Day**
 
-**Pro Specialist,							              August 2020 – January 2022**
-
-**Sales Associate,							            May 2018 – August 2020**
-
 **Floor & Décor,							              Downey, CA**
 
 -	Conducted in-depth data analysis & reporting of sales comps/trends data, providing valuable insights for strategic decision-making, and reporting to department manager.
@@ -46,12 +42,16 @@ Collaborative, detail-oriented college graduate looking to utilize educational e
 -	Developed training programs to enhance team skills in areas such as product familiarity, sales techniques, and customer communication.
   
 
-**IDS Custom Audio Assistant, 					    January 2017 – May 2018**
+**Copywriter Intern, 					              January 2024 – Present Day**
 
-**IDS Custom Audio,                         Norwalk, CA**
+**Ms Prissy Cosmetics,                      Los Angeles, CA**
 
--	Issued purchase orders and coded invoices for payment to verify contractor billings.
--	Worked alongside IDS Custom Audio's to establish timelines for constructions projects and provided quality and cost control on various projects.
+-	Researching the cosmetics ad space to gather understanding of the role of ad copy.
+- Creating the tone and beat sheet for each product caption and what the ad copy should contain.
+- Practiced using prose, the rule of threes and dissonance and consonance to create engaging and memorable opening for product descriptions.
+- Practiced creating calls-to-action to focus the mind of the customer and put them in the mindset to buy products (makeup).
+- Position required editing for clarity and removing words, phrases and descriptions that weren’t succinct or caused the ad copy to be overly long.
+- Position required writing multiple product descriptions per day that were under 140 or 280 characters but were distinctive and memorable.
   
 
 ## Projects

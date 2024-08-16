@@ -2,17 +2,17 @@
 
 Hello There!, 
 
-Collaborative, detail-oriented college graduate looking to utilize educational experience in a full-time role. Proficient in writing, editing, and proofreading with well-honed skills in technical research and some experience with syntax language for HTML, XML, Python, C++, and other technical based software programs as well. Motivated to leverage my background in writing and research methods to produce engaging content for any audience. 
+Collaborative, detail-oriented college graduate utilizing educational experience in a full-time role. Proficient in writing, editing, and proofreading with well-honed skills in technical research and some experience with syntax languages along with other software programs as well. Motivated to leverage my background in writing and research methods to produce engaging content for any audience. I look forward to connecting! 
 
 
 ## Skills 
 - External/Internal Communications
-- Copywriting
-- Content Writing
+- Technical Writing Copy Writing, Content Writing, Demand Writing, and other forms of profressional writing
 - Bilingual (English & Spanish)
 - Microsoft Office
 - Git/GitHub/GitHub Pages
 - Visual Studio Code
+- Adobe Acrobat 
 
 
 ## Education
@@ -21,16 +21,28 @@ Collaborative, detail-oriented college graduate looking to utilize educational e
   
 
 ## Work Experience
-**Freelance Writer,            					    October 2023 – Present Day**
+**Demand Writer,   					    May 2018 – Present Day**
 
-**G.E,                                      Norwalk, CA**
+**Omega Law Group,							     Beverly Hills, CA**
+
+- Supported firm’s attorneys & case managers by creating compiling comprehensive documentation and persuasive arguments to facilitate the resolution of claims, cases, and final tenders.
+- Wrote, edited, and maintained high-quality technical legal documentation, including user manuals for new remote demand writers’ team, online help, and release notes.
+- Maintained and updated firm’s Dropbox documentation files to reflect new edits, updates in procedure, and other enhancements.
+- Reviewed remote demand writer’s documentation packages for format, accuracy, and compliance with existing procedures; provided feedback on content as appropriate in collaboration with area experts.
+- Used Adobe Acrobat along with multiple software programs to organize medical records, bills, and client documents into cohesive demand packages.
+
+
+
+**Freelance Writer,         October 2023 – Present Day**
+
+**G.E,                                     Norwalk, CA**
 
 -	Assisting technology companies in writing/ reviewing their professional documentation to ensure that the final document is the highest quality and is easily understandable. 
 - Conducted research to create informative and engaging content for various audiences. 
 - Collaborated directly with subject matter experts to research, edit, and publish end-user documentation.
   
   
-**Assistant Department Manager,					    May 2018 – Present Day**
+**Assistant Department Manager,	May 2018 – Present Day**
 
 **Floor & Décor,							              Downey, CA**
 
@@ -40,9 +52,9 @@ Collaborative, detail-oriented college graduate looking to utilize educational e
 -	Developed training programs to enhance team skills in areas such as product familiarity, sales techniques, and customer communication.
   
 
-**Copywriter Intern, 					              January 2024 – Present Day**
+**Copywriter Intern, 					 June 2023 – August 2024**
 
-**Ms Prissy Cosmetics,                      Los Angeles, CA**
+**Ms Prissy Cosmetics,                 Los Angeles, CA**
 
 - Practiced using prose, the rule of threes and dissonance and consonance to create engaging and memorable opening for product descriptions.
 - Practiced creating calls-to-action to focus the mind of the customer and put them in the mindset to buy products (makeup).

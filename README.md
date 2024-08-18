@@ -47,7 +47,7 @@ If you’re looking for a writer who can deliver more than just words, you’ve 
 
 ## Education
 - **B.A, English Rhetoric & Composition** | Cal-State Long Beach (_May 2023_)
-- **A.A, English** | Cerritos College (_May 2021_)
+- **A.A, English** |                        Cerritos College (_May 2021_)
 
 ## Work Experience
 

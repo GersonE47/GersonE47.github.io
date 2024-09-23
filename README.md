@@ -1,22 +1,22 @@
-# Welcome to Gerson Escalante’s Writing Hub
+# Welcome to Gerson Escalante’s Writing Hub!
 
-Hello there! I'm Gerson Escalante, a seasoned writer with a B.A. in English, Rhetoric & Composition from Cal State Long Beach, and a passion for turning complex ideas into clear, compelling content. My diverse experience spans legal writing, technical documentation, creative copywriting, and project management. Whether it's crafting detailed legal documents or engaging product descriptions, I'm dedicated to delivering content that resonates with audiences and achieves results. With a strong foundation in technical research and experience with syntax languages, I'm here to elevate your message and help you connect with your target audience. I look forward to collaborating with you!
+My name is Gerson Escalante I graduated from Long Beach State University with a degree in English Rhetoric & Composition and since then I have been writing copy, grants, technical legal documentation, and content for various companies and websites in the technical, legal, beauty industry, and other professions. My clientele consists of well established local & far professional companies all over california. In addition to client work, I’ve developed my own successful portfolio website where I regularly showcase my writing projects and content strategies.
 
 ## What Sets Me Apart?
-Every project I take on is personal to me. Whether I’m freelancing or working within a team, I approach each task with the same level of dedication and attention to detail. I strive to create content that truly reflects the voice and vision of my clients. By combining my diverse experience, technical skills, and passion for writing, I’m here to help you communicate your message effectively, no matter the medium.
+I’m dedicated to understanding the voice and needs of each client. I approach every project, big or small, with care, commitment, and attention to detail. With a diverse background and a passion for writing, I help businesses and individuals communicate clearly and effectively across different platforms.
 
 ## Freelance Services with a Personal Touch: 
-My freelance projects span across various industries, allowing me to adapt and tailor content to meet the specific needs of each client. Whether you need end-user documentation or business proposals, I deliver with precision and care.
+I’ve worked with businesses across various industries to deliver tailored, high-quality content. My services are designed to meet each client’s unique needs, from technical manuals to creative marketing copy.
 
-1. Strong Technical Acumen:
-My proficiency extends beyond writing. With a CS50 Introduction to Computer Science Certificate from Harvard University, I possess a foundational understanding of syntax languages and technical concepts, which enables me to communicate complex ideas in an accessible way.
+1. Technical Acumen:
+With a CS50 Computer Science Certificate from Harvard University, I understand technical concepts and communicate them clearly, making complex information accessible to all audiences.
 
 2. Comprehensive Project Management:
-My background in management roles, including my position as a Department Manager and Pro Specialist at Floor & Décor, equips me with robust project management skills. I’m adept at organizing, overseeing, and delivering projects on time, ensuring that every detail is handled with professionalism.
+My background in management roles, including my position as a Department Manager and Demands Lead, equips me with robust project management skills. I’m adept at organizing, overseeing, and delivering projects on time, ensuring that every detail is handled with professionalism.
 Services Offered
 
 3. Professional Writing:
-From grant proposals to content creation, I offer a full suite of professional writing services tailored to your specific needs. My goal is to help you communicate your message clearly and effectively.
+From grant proposals to content creation, I offer a full range of writing services customized to your specific goals. My objective is to help you communicate your message with clarity and confidence.
 
 4. Technical Writing & Documentation:
 I provide end-to-end documentation solutions that are accurate, user-friendly, and tailored to both technical and non-technical audiences.
@@ -26,11 +26,6 @@ Engage your audience with targeted, creative copy that speaks to their needs and
 
 6. Editing & Proofreading:
 I meticulously review and refine content to ensure it is polished, precise, and professional. My attention to detail guarantees that your final product is error-free and ready for publication.
-
-## Client Testimonials
-"Gerson’s ability to turn complex ideas into clear, concise, and compelling content has been invaluable to our business. His attention to detail and commitment to quality are unparalleled." - Jay Rangal, Omega Law Group
-
-"The content Gerson created for our products was exactly what we needed to connect with our customers. His writing is both creative and effective." - Meshay Latte, Ms. Prissy Cosmetics
 
 ## Let’s Collaborate
 If you’re looking for a writer who can deliver more than just words, you’ve come to the right place. I’m here to help you turn your ideas into impactful content that achieves your goals. Ready to take your writing to the next level? Let’s connect and discuss how I can assist with your next project. Reach out!
@@ -47,7 +42,7 @@ If you’re looking for a writer who can deliver more than just words, you’ve 
 
 ## Education
 - **B.A, English Rhetoric & Composition** | Cal-State Long Beach (_May 2023_)
-- **A.A, English** |                        Cerritos College (_May 2021_)
+- **A.A, English** | Cerritos College (_May 2021_)
 
 ## Work Experience
 
@@ -65,14 +60,14 @@ If you’re looking for a writer who can deliver more than just words, you’ve 
 - Conducted research to create informative and engaging content for various audiences.
 - Collaborated directly with subject matter experts to research, edit, and publish end-user documentation.
   
-**Assistant Department Manager** | _Floor & Décor, Downey, CA_ | **May 2018 – August 2024**
+**Department Manager** | _Floor & Décor, Downey, CA_ | **May 2018 – August 2024**
 
 - Conducted in-depth data analysis & reporting of sales comps/trends data, providing valuable insights for strategic decision-making, and reporting to the department manager.
 - Utilized analytical skills to interpret complex data sets, identifying patterns and trends to enhance sales strategies.
 - Mentored new associates, cultivating expertise in product knowledge, effective selling techniques, and company procedures.
 - Developed training programs to enhance team skills in areas such as product familiarity, sales techniques, and customer communication.
   
-**Copywriter Intern** | _Ms Prissy Cosmetics, Los Angeles, CA_ | **June 2023 – August 2024**
+**Copywriter** | _Ms Prissy Cosmetics, Los Angeles, CA_ | **June 2023 – August 2024**
 
 - Created the tone and beat sheet for each product caption and determined the ad copy content.
 - Utilized prose, the rule of threes, and techniques like dissonance and consonance to create engaging and memorable openings for product descriptions.

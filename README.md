@@ -40,39 +40,11 @@ If you’re looking for a writer who can deliver more than just words, you’ve 
 - Visual Studio Code
 - Bilingual (English & Spanish)
 
-## Education
-- **B.A, English Rhetoric & Composition** | Cal-State Long Beach (_May 2023_)
-- **A.A, English** | Cerritos College (_May 2021_)
+## Resume
 
-## Work Experience
+### Current Resume:
+[Resume (2024).pdf](https://github.com/user-attachments/files/17092697/Resume.2024.pdf)
 
-**Demand Writer** | _Omega Law Group, Beverly Hills, CA_ | **August 2024 – Present**
-
-- Supported firm’s attorneys & case managers by creating and compiling comprehensive documentation and persuasive arguments to facilitate the resolution of claims, cases, and final tenders.
-- Wrote, edited, and maintained high-quality technical legal documentation, including user manuals for the new remote demand writers’ team, online help, and release notes.
-- Maintained and updated firm’s Dropbox documentation files to reflect new edits, updates in procedure, and other enhancements.
-- Reviewed remote demand writer’s documentation packages for format, accuracy, and compliance with existing procedures; provided feedback on content in collaboration with area experts.
-- Used Adobe Acrobat along with multiple software programs to organize medical records, bills, and client documents into cohesive demand packages.
-
-**Freelance Writer** | _G.E, Norwalk, CA_ | **October 2023 – Present**
-
-- Assisted professional businesses in writing & reviewing their professional documentation to ensure that the final document is of the highest quality and is easily understandable.
-- Conducted research to create informative and engaging content for various audiences.
-- Collaborated directly with subject matter experts to research, edit, and publish end-user documentation.
-  
-**Department Manager** | _Floor & Décor, Downey, CA_ | **May 2018 – August 2024**
-
-- Conducted in-depth data analysis & reporting of sales comps/trends data, providing valuable insights for strategic decision-making, and reporting to the department manager.
-- Utilized analytical skills to interpret complex data sets, identifying patterns and trends to enhance sales strategies.
-- Mentored new associates, cultivating expertise in product knowledge, effective selling techniques, and company procedures.
-- Developed training programs to enhance team skills in areas such as product familiarity, sales techniques, and customer communication.
-  
-**Copywriter** | _Ms Prissy Cosmetics, Los Angeles, CA_ | **June 2023 – August 2024**
-
-- Created the tone and beat sheet for each product caption and determined the ad copy content.
-- Utilized prose, the rule of threes, and techniques like dissonance and consonance to create engaging and memorable openings for product descriptions.
-- Developed calls-to-action that focused customers' minds and put them in the mindset to buy products.
-- Wrote multiple product descriptions per day under 140 or 280 characters, ensuring they were distinctive and memorable.
 
 ## Projects
 

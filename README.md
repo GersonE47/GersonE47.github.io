@@ -42,9 +42,7 @@ If you’re looking for a writer who can deliver more than just words, you’ve 
 
 ## Resume
 
-### Current Resume:
-[Resume (2024).pdf](https://github.com/user-attachments/files/17092697/Resume.2024.pdf)
-
+[Resume (2025).pdf](https://github.com/user-attachments/files/18722911/Resume.2025.pdf)
 
 ## Projects
 

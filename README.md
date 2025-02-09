@@ -40,14 +40,14 @@ If you’re looking for a writer who can deliver more than just words, you’ve 
 - Visual Studio Code
 - Bilingual (English & Spanish)
 
-## Resume
+## Resume:
 
 [Resume (2025).pdf](https://github.com/user-attachments/files/18722911/Resume.2025.pdf)
 
-## Projects
+## Projects:
 
-### Professional Writing Portfolio:
+### Professional Writing Portfolio
 [Writing Portfolio 2024 .pdf](https://github.com/GersonE47/GersonE47.github.io/files/14622239/Writing.Portfolio.2024.pdf)
 
-### CS50 Files:
+### CS50 Files
 [98873026-main.zip](https://github.com/GersonE47/GersonE47.github.io/files/13945044/98873026-main.zip)

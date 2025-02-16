@@ -1,8 +1,4 @@
-# Gerson Escalante
-
-Professional & Technical Writer | Content Strategist
-
-
+# Professional & Technical Writer | Content Strategist
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hello!

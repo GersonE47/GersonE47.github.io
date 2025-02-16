@@ -9,13 +9,13 @@ I create high quality, result driven content across various industries. Helping 
 
 ## What I Offer:
 
-* Technical & Business Writing – Clear, structured documentation for internal and external use.
+1. Technical & Business Writing – Clear, structured documentation for internal and external use.
   
-* Copywriting & Content Strategy – Engaging, persuasive content designed to connect with audiences.
+2. Copywriting & Content Strategy – Engaging, persuasive content designed to connect with audiences.
   
-* Editing & Proofreading – Precision editing to refine clarity, structure, and effectiveness.
+3. Editing & Proofreading – Precision editing to refine clarity, structure, and effectiveness.
   
-* Process & Documentation Optimization – Experience in workflow automation, data organization, and content management.
+4. Process & Documentation Optimization – Experience in workflow automation, data organization, and content management.
 
 ## Why Work With Me?
 

@@ -1,4 +1,4 @@
-# Professional & Technical Writer | Content Strategist
+## Professional & Technical Writer|Content Strategist
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hello!
@@ -28,9 +28,13 @@ I create high quality, result driven content across various industries. Helping 
 ## Skills:
 
 - Professional Writing – Technical, grant, copywriting, content writing, and demand writing.
+  
 - Legal & Technical Research – Expertise in structured documentation, compliance, and analysis.
+  
 - Project-Management – Coordinating workflows, automating processes, and optimizing team efficiency.
+  
 - Communication – Strong internal/external communication for collaboration and content strategy.
+  
 - Software & Tools – Proficient in Microsoft Office, Adobe Acrobat, Ai-driven Softwares, and Project-Management softwares.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

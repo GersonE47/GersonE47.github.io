@@ -1,5 +1,7 @@
 # Gerson Escalante | Professional & Technical Writer | Content Strategist
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Hello!
 
 I create high quality, result driven content across various industries. Helping businesses communicate complex ideas with clarity and impact. With expertise in technical writing, content strategy, and data driven process optimization. I develop engaging materials tailored to each client’s needs.
@@ -26,6 +28,8 @@ I create high quality, result driven content across various industries. Helping 
 - Project Management – Coordinating workflows, automating processes, and optimizing team efficiency.
 - Communication – Strong internal/external communication for collaboration and content strategy.
 - Software & Tools – Proficient in Microsoft Office, Adobe Acrobat, 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Let’s Collaborate
 

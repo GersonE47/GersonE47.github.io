@@ -3,28 +3,31 @@
 I create high quality, result driven content across various industries. Helping businesses communicate complex ideas with clarity and impact. With expertise in technical writing, content strategy, and data driven process optimization. I develop engaging materials tailored to each client’s needs.
 
 ## What I Offer:
+
 * Technical & Business Writing – Clear, structured documentation for internal and external use.
 * Copywriting & Content Strategy – Engaging, persuasive content designed to connect with audiences.
 * Editing & Proofreading – Precision editing to refine clarity, structure, and effectiveness.
 * Process & Documentation Optimization – Experience in workflow automation, data organization, and content management.
 
-## Why Work With Me? 
+## Why Work With Me?
+
 * Leadership & Collaboration – Led remote teams, ensuring efficiency and quality in content development.
 * Technical Acumen – Skilled in documentation management, process automation, and content organization tools.
 * Industry Versatility – Experience creating content for businesses across multiple sectors, from corporate to creative industries.
 
+## Skills:
+
+- Professional Writing – Technical, grant, copywriting, content writing, and demand writing.
+- Legal & Technical Research – Expertise in structured documentation, compliance, and analysis.
+- Project Management – Coordinating workflows, automating processes, and optimizing team efficiency.
+- Communication – Strong internal/external communication for collaboration and content strategy.
+- Software & Tools – Proficient in Microsoft Office, Adobe Acrobat, 
+
 ## Let’s Collaborate
+
 If you need a writer who can translate complex information into clear, effective content, let’s collaborate. Beyond technical and business writing, I’m passionate about creative storytelling, brand voice development, and crafting compelling narratives. Whether you need structured documentation or imaginative, engaging content, I bring creativity and strategy to every project. Let’s bring your ideas to life!
 
-## Skills
-- Professional Writing (Technical, Grant, Copywriting, Content Writing, Demand Writing)
-- Legal Documentation & Technical Research
-- Project Management
-- External/Internal Communications
-- Microsoft Office Suite & Adobe Acrobat
-- Git/GitHub/GitHub Pages
-- Visual Studio Code
-- Bilingual (English & Spanish)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Resume:
 

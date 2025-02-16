@@ -12,14 +12,19 @@ I create high quality, result driven content across various industries. Helping 
 ## What I Offer:
 
 * Technical & Business Writing – Clear, structured documentation for internal and external use.
+  
 * Copywriting & Content Strategy – Engaging, persuasive content designed to connect with audiences.
+  
 * Editing & Proofreading – Precision editing to refine clarity, structure, and effectiveness.
+  
 * Process & Documentation Optimization – Experience in workflow automation, data organization, and content management.
 
 ## Why Work With Me?
 
 * Leadership & Collaboration – Led remote teams, ensuring efficiency and quality in content development.
-* Technical Acumen – Skilled in documentation management, process automation, and content organization tools.
+  
+* Technical Acumen – Skilled in documentation management, process automation, and content organization tools
+  
 * Industry Versatility – Experience creating content for businesses across multiple sectors, from corporate to creative industries.
 
 ## Skills:
